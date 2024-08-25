@@ -37,7 +37,7 @@ This project demonstrates a basic setup to run a LLaMA model with minimal comput
 
 ### Description
 
-This project involves fine-tuning a LLaMA model to create a medical question-answering chatbot. The fine-tuning process uses a dataset from Kaggle: [Healthcare NLP: LLMs, Transformers, Datasets](https://www.kaggle.com/datasets/jpmiller/layoutlm). The chatbot is optimized to run on systems with low resources using model offloading and 4-bit quantization.
+This project involves fine-tuning a LLaMA model to create a medical question-answering chatbot. The fine-tuning process uses a dataset from Kaggle: [Healthcare NLP: LLMs, Transformers, Datasets](https://www.kaggle.com/datasets/jpmiller/layoutlm). The chatbot is optimized to run on systems with low resources using model offloading and 4-bit quantization. Here we use Chainlit for chatbot interface.
 
 ### Dataset
 
